@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "asciiscape"
+version = "0.1.7.1"
+description = "A simple CLI Python tool for converting image to ASCII textpe"
+authors = ["Lucca Chiguti <luccachbusiness@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^1.26.4"
+rich = "^13.7.1"
+pillow = "^10.3.0"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.2.1"
+requests-mock = "^1.12.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: asciiscape
+Version: 0.1.7.1
+Summary: A simple CLI Python tool for converting image to ASCII textpe
+Author: Lucca Chiguti
+Author-email: luccachbusiness@gmail.com
+Requires-Python: >=3.12,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: numpy (>=1.26.4,<2.0.0)
+Requires-Dist: pillow (>=10.3.0,<11.0.0)
+Requires-Dist: rich (>=13.7.1,<14.0.0)
+Description-Content-Type: text/markdown
+
+## ASCIIscape
+
+A simple Python CLI tool for converting images to ASCII strings, using numpy, Pillow and rich.
+I hope you can enjoy my first PyPi package project!
+
+### Usage
+
+`python -m asciiscape`<br>
+Just type this on your terminal and follow the instructions 😉.
