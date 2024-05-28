@@ -23,7 +23,7 @@ Choose your options and get your image converted to ASCII!
 
 ### Example
 
-<center><div><img src="https://i.imgur.com/gh7CwD4.jpeg", alt="original", width="200" height="200"><img src="https://i.imgur.com/9HrFodC.png", alt="small charset", width="200" height="200"><img src="https://i.imgur.com/4wdDgVD.png", alt="braille charset", width="200" height="200"></div></center>
+<center><div align="center"><img src="https://i.imgur.com/gh7CwD4.jpeg", alt="original", width="200" height="200"><img src="https://i.imgur.com/9HrFodC.png", alt="small charset", width="200" height="200"><img src="https://i.imgur.com/4wdDgVD.png", alt="braille charset", width="200" height="200"></div></center>
 <p align="center">From left to right - Original, Small Charset, Braille Charset</p>
 
 
