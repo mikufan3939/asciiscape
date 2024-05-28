@@ -9,21 +9,26 @@ You can intall by running ```pip install asciiscape``` from your terminal.
 
 To run ASCIIscape type ```python -m asciiscape``` in your terminal of choice.<br>
 
-Then provide the **PATH** of the **IMAGE** you want to convert:
+Then provide the **PATH** of the **IMAGE** you want to convert.
 <div><img src="https://i.imgur.com/9UYqcOK.png" alt="path usage" width="400"></div>
 <p></p>
 
-You will be provided with a list of options to choose from:<br>
--Style: **COLOR** or **GRAYSCALE**
--
+### Options
+#### Style:
+**COLOR** or **GRAYSCALE**: sets the resulting ASCII image to be printed either with color or in black and white, respectively.<br>
+#### Charset:
+**SMALL** or **BIG** or **BRAILLE**: sets the resulting ASCII image to be printed with a small charset (10 levels of brightness), a big charset (91 levels of 
+                                       brightness) or a braille charset. 
+#### If Braille Was Chosen:
+**DITHER** and **THRESHOLD**: sets if the original image is to be dithered and the brightness threshold that the pixels are going to be compared against.
 <div><img src="https://i.imgur.com/T9b08dS.png" alt="path usage" width="400"></div>
 <p></p>
 
-Choose your options and get your image converted to ASCII!
+Choose your options and get your image converted to ASCII !
 
 ### Example
 
-<center><div align="center"><img src="https://i.imgur.com/gh7CwD4.jpeg", alt="original", width="200" height="200"><img src="https://i.imgur.com/9HrFodC.png", alt="small charset", width="200" height="200"><img src="https://i.imgur.com/4wdDgVD.png", alt="braille charset", width="200" height="200"></div></center>
+<div align="center"><img src="https://i.imgur.com/gh7CwD4.jpeg", alt="original", width="280" height="280"><img src="https://i.imgur.com/9HrFodC.png", alt="small charset", width="300" height="300"><img src="https://i.imgur.com/4wdDgVD.png", alt="braille charset", width="300" height="300"></div>
 <p align="center">From left to right - Original, Small Charset, Braille Charset</p>
 
 
