@@ -51,6 +51,3 @@ The libraries <a href="https://github.com/python-pillow/Pillow">Pillow</a>, <a h
 #### Package
 
 This project is a Python package made with <a href="https://github.com/python-poetry/poetry">Poetry</a>, as such it has the main package folder "asciiscape", which contains the Python source code and the "\_\_init\_\_.py" file which defines the package. It also has the "pyproject.toml" file, which contains three tables, one that contains metadata about the package, another with the package dependencies and the last one with the Poetry dependencies.
-
-## YouTube video Url:
-https://youtu.be/ztS4LacuZtk
