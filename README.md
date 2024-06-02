@@ -3,7 +3,7 @@
 <div><a href="https://pypi.org/project/asciiscape/"><img src="https://camo.githubusercontent.com/340246e46c5aa50acde0582093d8650c201d5c3ff31432a547ea625f700bad6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507950692d626c75652e7376673f6c6f676f3d70797069266c6162656c436f6c6f723d353535353535267374796c653d666f722d7468652d6261646765" alt="pypi icon"></a></div>
 
 **ASCIIscape** is a simple Python CLI for converting images into ASCII that was made for CS50's final project.<br>
-You can intall by running ```pip install asciiscape``` from your terminal.
+You can install it by running ```pip install asciiscape``` from your terminal.
 
 ## Usage
 
